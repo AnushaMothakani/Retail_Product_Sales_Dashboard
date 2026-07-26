@@ -7,6 +7,11 @@ Developed an interactive Business Intelligence dashboard using Power BI and Exce
 - Power BI
 - Microsoft Excel
 
+##  Dashboard
+
+[Project_Screenshorts.pdf](https://github.com/user-attachments/files/30385900/Project_Screenshorts.pdf)
+
+
 ## Features
 - Product-wise Sales Analysis
 - Category-wise Performance Tracking
@@ -19,12 +24,6 @@ Developed an interactive Business Intelligence dashboard using Power BI and Exce
 - Banana generated the highest sales and profit.
 - Fruit category contributed higher overall sales.
 - Dashboard helps identify product performance and profitability trends.
-
-## Project Files
-- Power BI Dashboard (.pbix)
-- Excel Dataset
-- Dashboard PDF
-- Dashboard Screenshots
 
 ## Outcome
 The project provides clear business insights and supports data-driven decision-making using visual analytics and reporting.
